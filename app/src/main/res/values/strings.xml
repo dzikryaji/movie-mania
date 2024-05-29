@@ -1,0 +1,82 @@
+<resources>
+    <string name="app_name">Movie Mania</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="year">Year</string>
+    <string name="rating">Rating</string>
+    <string name="about">About</string>
+    <string name="user_name">Dzikry Aji Santoso</string>
+    <string name="user_email">dzikryaji07@gmail.com</string>
+    <string name="share">Share</string>
+
+    <string-array name="data_title">
+        <item>Chungking Express</item>
+        <item>Blade Runner 2049</item>
+        <item>Before Sunrise</item>
+        <item>Kungfu Hustle</item>
+        <item>(500) Days of Summer</item>
+        <item>Fallen Angels</item>
+        <item>The Batman</item>
+        <item>Eternal Sunshine of The Spotless Mind</item>
+        <item>Interstellar</item>
+        <item>The Lighthouse</item>
+        <item>The Perks of Being a Wallflower</item>
+        <item>Monster</item>
+    </string-array>
+    <string-array name="data_description">
+        <item>Two melancholic Hong Kong policemen fall in love: one with a mysterious underworld figure, the other with a beautiful and ethereal server at a late-night restaurant.</item>
+        <item>Thirty years after the events of the first film, a new blade runner, LAPD Officer K, unearths a long-buried secret that has the potential to plunge what\'s left of society into chaos. K\'s discovery leads him on a quest to find Rick Deckard, a former LAPD blade runner who has been missing for 30 years.</item>
+        <item>A young man and woman meet on a train in Europe, and wind up spending one evening together in Vienna. Unfortunately, both know that this will probably be their only night together.</item>
+        <item>It\'s the 1940s, and the notorious Axe Gang terrorizes Shanghai. Small-time criminals Sing and Bone hope to join, but they only manage to make lots of very dangerous enemies. Fortunately for them, kung fu masters and hidden strength can be found in unlikely places. Now they just have to take on the entire Axe Gang.</item>
+        <item>Tom, greeting-card writer and hopeless romantic, is caught completely off-guard when his girlfriend, Summer, suddenly dumps him. He reflects on their 500 days together to try to figure out where their love affair went sour, and in doing so, Tom rediscovers his true passions in life.</item>
+        <item>An assassin goes through obstacles as he attempts to escape his violent lifestyle despite the opposition of his partner, who is secretly attracted to him.</item>
+        <item>In his second year of fighting crime, Batman uncovers corruption in Gotham City that connects to his own family while facing a serial killer known as the Riddler.</item>
+        <item>When their relationship turns sour, a couple undergoes a medical procedure to have each other erased from their memories for ever.</item>
+        <item>When Earth becomes uninhabitable in the future, a farmer and ex-NASA pilot, Joseph Cooper, is tasked to pilot a spacecraft, along with a team of researchers, to find a new planet for humans.</item>
+        <item>Two lighthouse keepers try to maintain their sanity while living on a remote and mysterious New England island in the 1890s.</item>
+        <item>Charlie, a 15-year-old introvert, enters high school and is nervous about his new life. When he befriends his seniors, he learns to cope with his friend\'s suicide and his tumultuous past.</item>
+        <item>When her young son Minato starts to behave strangely, his mother feels that there is something wrong. Discovering that a teacher is responsible, she storms into the school demanding to know what\'s going on. But as the story unfolds through the eyes of mother, teacher, and child, the truth gradually emerges.</item>
+    </string-array>
+    <string-array name="data_poster">
+        <item>https://theposterdb.com/api/assets/218347</item>
+        <item>https://theposterdb.com/api/assets/33977</item>
+        <item>https://theposterdb.com/api/assets/12126</item>
+        <item>https://theposterdb.com/api/assets/82138</item>
+        <item>https://theposterdb.com/api/assets/85548</item>
+        <item>https://theposterdb.com/api/assets/146429</item>
+        <item>https://theposterdb.com/api/assets/185105</item>
+        <item>https://theposterdb.com/api/assets/168230</item>
+        <item>https://theposterdb.com/api/assets/6461</item>
+        <item>https://theposterdb.com/api/assets/25643</item>
+        <item>https://theposterdb.com/api/assets/260471</item>
+        <item>https://image.tmdb.org/t/p/original//kvUJUyUGOhEoiWWNH04IXoExPE2.jpg</item>
+    </string-array>
+    <string-array name="data_rating">
+        <item>8.0</item>
+        <item>8.0</item>
+        <item>8.1</item>
+        <item>7.7</item>
+        <item>7.7</item>
+        <item>7.6</item>
+        <item>7.8</item>
+        <item>8.3</item>
+        <item>8.7</item>
+        <item>7.4</item>
+        <item>7.9</item>
+        <item>7.9</item>
+    </string-array>
+    <string-array name="data_year">
+        <item>1994</item>
+        <item>2017</item>
+        <item>1995</item>
+        <item>2004</item>
+        <item>2009</item>
+        <item>1995</item>
+        <item>2022</item>
+        <item>2004</item>
+        <item>2014</item>
+        <item>2019</item>
+        <item>2012</item>
+        <item>2023</item>
+    </string-array>
+</resources>
